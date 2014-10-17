@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mez:home|Door43 (mez)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mez|d43-mez repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mez/archive/master.zip|d43-mez.zip]]
+
+**Recent Changes**
+{{changes>ns = mez}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mez|Ethnologue data]]
+
